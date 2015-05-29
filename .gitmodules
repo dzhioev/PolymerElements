@@ -1,0 +1,267 @@
+[submodule "paper-styles"]
+	path = paper-styles
+	url = git@github.com:PolymerElements/paper-styles.git
+[submodule "iron-meta"]
+	path = iron-meta
+	url = git@github.com:PolymerElements/iron-meta.git
+[submodule "paper-item"]
+	path = paper-item
+	url = git@github.com:PolymerElements/paper-item.git
+[submodule "iron-doc-viewer"]
+	path = iron-doc-viewer
+	url = git@github.com:PolymerElements/iron-doc-viewer.git
+[submodule "neon-elements"]
+	path = neon-elements
+	url = git@github.com:PolymerElements/neon-elements.git
+[submodule "molecules"]
+	path = molecules
+	url = git@github.com:PolymerElements/molecules.git
+[submodule "gold-elements"]
+	path = gold-elements
+	url = git@github.com:PolymerElements/gold-elements.git
+[submodule "iron-elements"]
+	path = iron-elements
+	url = git@github.com:PolymerElements/iron-elements.git
+[submodule "prism-element"]
+	path = prism-element
+	url = git@github.com:PolymerElements/prism-element.git
+[submodule "paper-menu"]
+	path = paper-menu
+	url = git@github.com:PolymerElements/paper-menu.git
+[submodule "platinum-elements"]
+	path = platinum-elements
+	url = git@github.com:PolymerElements/platinum-elements.git
+[submodule "paper-radio-button"]
+	path = paper-radio-button
+	url = git@github.com:PolymerElements/paper-radio-button.git
+[submodule "paper-checkbox"]
+	path = paper-checkbox
+	url = git@github.com:PolymerElements/paper-checkbox.git
+[submodule "paper-toggle-button"]
+	path = paper-toggle-button
+	url = git@github.com:PolymerElements/paper-toggle-button.git
+[submodule "test-fixture"]
+	path = test-fixture
+	url = git@github.com:PolymerElements/test-fixture.git
+[submodule "iron-iconset-svg"]
+	path = iron-iconset-svg
+	url = git@github.com:PolymerElements/iron-iconset-svg.git
+[submodule "iron-iconset"]
+	path = iron-iconset
+	url = git@github.com:PolymerElements/iron-iconset.git
+[submodule "iron-icon"]
+	path = iron-icon
+	url = git@github.com:PolymerElements/iron-icon.git
+[submodule "iron-icons"]
+	path = iron-icons
+	url = git@github.com:PolymerElements/iron-icons.git
+[submodule "iron-ajax"]
+	path = iron-ajax
+	url = git@github.com:PolymerElements/iron-ajax.git
+[submodule "iron-image"]
+	path = iron-image
+	url = git@github.com:PolymerElements/iron-image.git
+[submodule "marked-element"]
+	path = marked-element
+	url = git@github.com:PolymerElements/marked-element.git
+[submodule "iron-collapse"]
+	path = iron-collapse
+	url = git@github.com:PolymerElements/iron-collapse.git
+[submodule "paper-header-panel"]
+	path = paper-header-panel
+	url = git@github.com:PolymerElements/paper-header-panel.git
+[submodule "iron-selector"]
+	path = iron-selector
+	url = git@github.com:PolymerElements/iron-selector.git
+[submodule "style-guide"]
+	path = style-guide
+	url = git@github.com:PolymerElements/style-guide.git
+[submodule "paper-drawer-panel"]
+	path = paper-drawer-panel
+	url = git@github.com:PolymerElements/paper-drawer-panel.git
+[submodule "iron-media-query"]
+	path = iron-media-query
+	url = git@github.com:PolymerElements/iron-media-query.git
+[submodule "quick-element"]
+	path = quick-element
+	url = git@github.com:PolymerElements/quick-element.git
+[submodule "paper-material"]
+	path = paper-material
+	url = git@github.com:PolymerElements/paper-material.git
+[submodule "platinum-push-messaging"]
+	path = platinum-push-messaging
+	url = git@github.com:PolymerElements/platinum-push-messaging.git
+[submodule "paper-ripple"]
+	path = paper-ripple
+	url = git@github.com:PolymerElements/paper-ripple.git
+[submodule "paper-toolbar"]
+	path = paper-toolbar
+	url = git@github.com:PolymerElements/paper-toolbar.git
+[submodule "iron-behaviors"]
+	path = iron-behaviors
+	url = git@github.com:PolymerElements/iron-behaviors.git
+[submodule "iron-flex-layout"]
+	path = iron-flex-layout
+	url = git@github.com:PolymerElements/iron-flex-layout.git
+[submodule "paper-behaviors"]
+	path = paper-behaviors
+	url = git@github.com:PolymerElements/paper-behaviors.git
+[submodule "platinum-sw"]
+	path = platinum-sw
+	url = git@github.com:PolymerElements/platinum-sw.git
+[submodule "paper-radio-group"]
+	path = paper-radio-group
+	url = git@github.com:PolymerElements/paper-radio-group.git
+[submodule "iron-component-page"]
+	path = iron-component-page
+	url = git@github.com:PolymerElements/iron-component-page.git
+[submodule "paper-input"]
+	path = paper-input
+	url = git@github.com:PolymerElements/paper-input.git
+[submodule "iron-input"]
+	path = iron-input
+	url = git@github.com:PolymerElements/iron-input.git
+[submodule "paper-elements"]
+	path = paper-elements
+	url = git@github.com:PolymerElements/paper-elements.git
+[submodule "iron-test-helpers"]
+	path = iron-test-helpers
+	url = git@github.com:PolymerElements/iron-test-helpers.git
+[submodule "paper-spinner"]
+	path = paper-spinner
+	url = git@github.com:PolymerElements/paper-spinner.git
+[submodule "paper-button"]
+	path = paper-button
+	url = git@github.com:PolymerElements/paper-button.git
+[submodule "iron-range-behavior"]
+	path = iron-range-behavior
+	url = git@github.com:PolymerElements/iron-range-behavior.git
+[submodule "iron-autogrow-textarea"]
+	path = iron-autogrow-textarea
+	url = git@github.com:PolymerElements/iron-autogrow-textarea.git
+[submodule "iron-menu-behavior"]
+	path = iron-menu-behavior
+	url = git@github.com:PolymerElements/iron-menu-behavior.git
+[submodule "paper-fab"]
+	path = paper-fab
+	url = git@github.com:PolymerElements/paper-fab.git
+[submodule "iron-fit-behavior"]
+	path = iron-fit-behavior
+	url = git@github.com:PolymerElements/iron-fit-behavior.git
+[submodule "paper-progress"]
+	path = paper-progress
+	url = git@github.com:PolymerElements/paper-progress.git
+[submodule "paper-slider"]
+	path = paper-slider
+	url = git@github.com:PolymerElements/paper-slider.git
+[submodule "iron-signals"]
+	path = iron-signals
+	url = git@github.com:PolymerElements/iron-signals.git
+[submodule "iron-localstorage"]
+	path = iron-localstorage
+	url = git@github.com:PolymerElements/iron-localstorage.git
+[submodule "paper-icon-button"]
+	path = paper-icon-button
+	url = git@github.com:PolymerElements/paper-icon-button.git
+[submodule "iron-resizable-behavior"]
+	path = iron-resizable-behavior
+	url = git@github.com:PolymerElements/iron-resizable-behavior.git
+[submodule "iron-jsonp-library"]
+	path = iron-jsonp-library
+	url = git@github.com:PolymerElements/iron-jsonp-library.git
+[submodule "iron-overlay-behavior"]
+	path = iron-overlay-behavior
+	url = git@github.com:PolymerElements/iron-overlay-behavior.git
+[submodule "iron-pages"]
+	path = iron-pages
+	url = git@github.com:PolymerElements/iron-pages.git
+[submodule "paper-dialog-behavior"]
+	path = paper-dialog-behavior
+	url = git@github.com:PolymerElements/paper-dialog-behavior.git
+[submodule "paper-dialog-scrollable"]
+	path = paper-dialog-scrollable
+	url = git@github.com:PolymerElements/paper-dialog-scrollable.git
+[submodule "paper-toast"]
+	path = paper-toast
+	url = git@github.com:PolymerElements/paper-toast.git
+[submodule "paper-tabs"]
+	path = paper-tabs
+	url = git@github.com:PolymerElements/paper-tabs.git
+[submodule "chartjs-element"]
+	path = chartjs-element
+	url = git@github.com:PolymerElements/chartjs-element.git
+[submodule "gold-cc-cvc-input"]
+	path = gold-cc-cvc-input
+	url = git@github.com:PolymerElements/gold-cc-cvc-input.git
+[submodule "gold-cc-expiration-input"]
+	path = gold-cc-expiration-input
+	url = git@github.com:PolymerElements/gold-cc-expiration-input.git
+[submodule "paper-menu-button"]
+	path = paper-menu-button
+	url = git@github.com:PolymerElements/paper-menu-button.git
+[submodule "gold-cc-input"]
+	path = gold-cc-input
+	url = git@github.com:PolymerElements/gold-cc-input.git
+[submodule "iron-a11y-keys-behavior"]
+	path = iron-a11y-keys-behavior
+	url = git@github.com:PolymerElements/iron-a11y-keys-behavior.git
+[submodule "iron-validatable-behavior"]
+	path = iron-validatable-behavior
+	url = git@github.com:PolymerElements/iron-validatable-behavior.git
+[submodule "iron-validator-behavior"]
+	path = iron-validator-behavior
+	url = git@github.com:PolymerElements/iron-validator-behavior.git
+[submodule "gold-email-input"]
+	path = gold-email-input
+	url = git@github.com:PolymerElements/gold-email-input.git
+[submodule "gold-phone-input"]
+	path = gold-phone-input
+	url = git@github.com:PolymerElements/gold-phone-input.git
+[submodule "gold-zip-input"]
+	path = gold-zip-input
+	url = git@github.com:PolymerElements/gold-zip-input.git
+[submodule "app-layout-templates"]
+	path = app-layout-templates
+	url = git@github.com:PolymerElements/app-layout-templates.git
+[submodule "neon-animation"]
+	path = neon-animation
+	url = git@github.com:PolymerElements/neon-animation.git
+[submodule "iron-form-element-behavior"]
+	path = iron-form-element-behavior
+	url = git@github.com:PolymerElements/iron-form-element-behavior.git
+[submodule "iron-form"]
+	path = iron-form
+	url = git@github.com:PolymerElements/iron-form.git
+[submodule "paper-dialog"]
+	path = paper-dialog
+	url = git@github.com:PolymerElements/paper-dialog.git
+[submodule "iron-a11y-keys"]
+	path = iron-a11y-keys
+	url = git@github.com:PolymerElements/iron-a11y-keys.git
+[submodule "paper-scroll-header-panel"]
+	path = paper-scroll-header-panel
+	url = git@github.com:PolymerElements/paper-scroll-header-panel.git
+[submodule "iron-a11y-announcer"]
+	path = iron-a11y-announcer
+	url = git@github.com:PolymerElements/iron-a11y-announcer.git
+[submodule "polymer"]
+	path = polymer
+	url = git@github.com:Polymer/polymer.git
+[submodule "webcomponentsjs"]
+	path = webcomponentsjs
+	url = git@github.com:webcomponents/webcomponentsjs
+[submodule "hydrolysis"]
+	path = hydrolysis
+	url = git@github.com:Polymer/hydrolysis.git
+[submodule "promise-polyfill"]
+	path = promise-polyfill
+	url = git@github.com:PolymerLabs/promise-polyfill.git
+[submodule "prism"]
+	path = prism
+	url = git@github.com:PrismJS/prism.git
+[submodule "web-animations-js"]
+	path = web-animations-js
+	url = git@github.com:web-animations/web-animations-js.git
+[submodule "marked"]
+	path = marked
+	url = git@github.com:chjj/marked.git
