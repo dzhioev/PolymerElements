@@ -196,9 +196,6 @@
 [submodule "gold-cc-expiration-input"]
 	path = gold-cc-expiration-input
 	url = git@github.com:PolymerElements/gold-cc-expiration-input.git
-[submodule "paper-menu-button"]
-	path = paper-menu-button
-	url = git@github.com:PolymerElements/paper-menu-button.git
 [submodule "gold-cc-input"]
 	path = gold-cc-input
 	url = git@github.com:PolymerElements/gold-cc-input.git
@@ -265,3 +262,24 @@
 [submodule "marked"]
 	path = marked
 	url = git@github.com:chjj/marked.git
+[submodule "web-component-tester"]
+	path = web-component-tester
+	url = git@github.com:Polymer/web-component-tester.git
+[submodule "mocha"]
+	path = mocha
+	url = git@github.com:mochajs/mocha.git
+[submodule "seed-element"]
+	path = seed-element
+	url = git@github.com:PolymerElements/seed-element.git
+[submodule "polymer-starter-kit"]
+	path = polymer-starter-kit
+	url = git@github.com:PolymerElements/polymer-starter-kit.git
+[submodule "iron-dropdown"]
+	path = iron-dropdown
+	url = git@github.com:PolymerElements/iron-dropdown.git
+[submodule "font-roboto"]
+	path = font-roboto
+	url = git@github.com:PolymerElements/font-roboto.git
+[submodule "iron-checked-element-behavior"]
+	path = iron-checked-element-behavior
+	url = git@github.com:PolymerElements/iron-checked-element-behavior.git
