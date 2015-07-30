@@ -283,3 +283,21 @@
 [submodule "iron-checked-element-behavior"]
 	path = iron-checked-element-behavior
 	url = git@github.com:PolymerElements/iron-checked-element-behavior.git
+[submodule "iron-list"]
+	path = iron-list
+	url = git@github.com:PolymerElements/iron-list.git
+[submodule "paper-menu-button"]
+	path = paper-menu-button
+	url = git@github.com:PolymerElements/paper-menu-button.git
+[submodule "paper-tooltip"]
+	path = paper-tooltip
+	url = git@github.com:PolymerElements/paper-tooltip.git
+[submodule "font-roboto-local"]
+	path = font-roboto-local
+	url = git@github.com:PolymerElements/font-roboto-local.git
+[submodule "paper-badge"]
+	path = paper-badge
+	url = git@github.com:PolymerElements/paper-badge.git
+[submodule "paper-card"]
+	path = paper-card
+	url = git@github.com:PolymerElements/paper-card.git
