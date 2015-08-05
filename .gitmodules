@@ -301,3 +301,6 @@
 [submodule "paper-card"]
 	path = paper-card
 	url = git@github.com:PolymerElements/paper-card.git
+[submodule "paper-dropdown-menu"]
+	path = paper-dropdown-menu
+	url = git@github.com:PolymerElements/paper-dropdown-menu.git
