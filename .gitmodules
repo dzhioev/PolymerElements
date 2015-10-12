@@ -304,3 +304,15 @@
 [submodule "paper-dropdown-menu"]
 	path = paper-dropdown-menu
 	url = git@github.com:PolymerElements/paper-dropdown-menu.git
+[submodule "platinum-bluetooth"]
+	path = platinum-bluetooth
+	url = git@github.com:PolymerElements/platinum-bluetooth.git
+[submodule "platinum-https-redirect"]
+	path = platinum-https-redirect
+	url = git@github.com:PolymerElements/platinum-https-redirect.git
+[submodule "test-all"]
+	path = test-all
+	url = git@github.com:PolymerElements/test-all.git
+[submodule "iron-label"]
+	path = iron-label
+	url = git@github.com:PolymerElements/iron-label.git
