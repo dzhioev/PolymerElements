@@ -54,7 +54,6 @@ for repo in repos:
 
 existing_submodules = GetExistingSubmodules()
 print 'Fetching remotes...'
-git.submodule.foreach('git', 'fetch')
 git.submodule.foreach('git', 'fetch', '--tags')
 print 'Updating...'
 git.submodule.foreach('git', 'checkout', 'origin/HEAD')

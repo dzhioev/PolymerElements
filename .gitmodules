@@ -316,3 +316,6 @@
 [submodule "iron-label"]
 	path = iron-label
 	url = git@github.com:PolymerElements/iron-label.git
+[submodule "paper-listbox"]
+	path = paper-listbox
+	url = git@github.com:PolymerElements/paper-listbox.git
