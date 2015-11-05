@@ -49,7 +49,11 @@ for repo in repos:
   if repo['name'] not in submodules_to_add:
     continue
   print 'Adding ' + repo['full_name'] + '...'
+  print repo['ssh_url']
+  print repo['name']
+
   git.submodule.add('--force', repo['ssh_url'], repo['name'])
+  print 'Updating ' + repo['full_name'] + '...'
   git.submodule.update('--recursive', '--init')
 
 existing_submodules = GetExistingSubmodules()

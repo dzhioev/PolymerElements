@@ -319,3 +319,6 @@
 [submodule "paper-listbox"]
 	path = paper-listbox
 	url = git@github.com:PolymerElements/paper-listbox.git
+[submodule "ContributionGuide"]
+	path = ContributionGuide
+	url = git@github.com:PolymerElements/ContributionGuide.git
