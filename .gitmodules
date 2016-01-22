@@ -82,9 +82,6 @@
 [submodule "iron-media-query"]
 	path = iron-media-query
 	url = https://github.com/PolymerElements/iron-media-query.git
-[submodule "quick-element"]
-	path = quick-element
-	url = https://github.com/PolymerElements/quick-element.git
 [submodule "paper-material"]
 	path = paper-material
 	url = https://github.com/PolymerElements/paper-material.git
@@ -322,3 +319,9 @@
 [submodule "ContributionGuide"]
 	path = ContributionGuide
 	url = https://github.com/PolymerElements/ContributionGuide.git
+[submodule "iron-page-url"]
+	path = iron-page-url
+	url = https://github.com/PolymerElements/iron-page-url.git
+[submodule "test-benchmark"]
+	path = test-benchmark
+	url = https://github.com/PolymerElements/test-benchmark.git

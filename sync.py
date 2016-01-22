@@ -24,7 +24,7 @@ git.submodule.update('--recursive', '--init')
 repos = [dict(name=full_name.split('/')[1],
               full_name=full_name,
               ssh_url='git@github.com:%s.git' % full_name,
-              https_url='https://github.com/%s.git' % full_name)
+              clone_url='https://github.com/%s.git' % full_name)
             for full_name in REPOS]
 
 repos += json.loads(
@@ -50,10 +50,10 @@ for repo in repos:
   if repo['name'] not in submodules_to_add:
     continue
   print 'Adding ' + repo['full_name'] + '...'
-  print repo['https_url']
+  print repo['clone_url']
   print repo['name']
 
-  git.submodule.add('--force', repo['https_url'], repo['name'])
+  git.submodule.add('--force', repo['clone_url'], repo['name'])
   print 'Updating ' + repo['full_name'] + '...'
   git.submodule.update('--recursive', '--init')
 
