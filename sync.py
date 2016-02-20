@@ -2,6 +2,7 @@
 
 import json
 from sh import curl, grep, git, cut
+import sys
 
 REPOS = [
   'Polymer/polymer',
@@ -62,4 +63,5 @@ print 'Fetching remotes...'
 git.submodule.foreach('git', 'fetch', '--tags')
 print 'Updating...'
 git.submodule.foreach('git', 'checkout', 'origin/HEAD')
-git.submodule.foreach('git', 'submodule', 'update', '--init', '--recursive')
+git.submodule.foreach('git', 'submodule', 'update', '--init', '--recursive',
+                      _out=sys.stdout, _err=sys.stderr)

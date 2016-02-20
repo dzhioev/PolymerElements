@@ -13,9 +13,6 @@
 [submodule "neon-elements"]
 	path = neon-elements
 	url = https://github.com/PolymerElements/neon-elements.git
-[submodule "molecules"]
-	path = molecules
-	url = https://github.com/PolymerElements/molecules.git
 [submodule "gold-elements"]
 	path = gold-elements
 	url = https://github.com/PolymerElements/gold-elements.git
@@ -325,3 +322,6 @@
 [submodule "test-benchmark"]
 	path = test-benchmark
 	url = https://github.com/PolymerElements/test-benchmark.git
+[submodule "iron-swipeable-container"]
+	path = iron-swipeable-container
+	url = https://github.com/PolymerElements/iron-swipeable-container.git
